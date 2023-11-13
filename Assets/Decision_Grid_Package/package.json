@@ -1,0 +1,17 @@
+{
+    "name": "com.liberty.decgrid",
+    "version": "0.5.0",
+    "unity": "2019.1",
+    "displayName": "Decision Collection Grid",
+    "description": "Package for createing a collection of nodes in a grid for decision making. Functionality for Createing multiple Collections. Nodes can be grabbed and values placed on them in multiple ways. Pathing can be done on nodes.",
+    "keywords": [
+        "Navigation",
+        "AI",
+        "Decision",
+        "Pathing"
+      ],
+    "author": {
+      "name": "Luke Garnsey",
+      "email": "lukegarnsey@gmail.com"
+    }
+  }
